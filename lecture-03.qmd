@@ -53,7 +53,7 @@ open # open file or directory
 ```{bash}
 #| eval: false
 
-ssh-keygen -t rsa -C "flozano@lamolina.edu.pe" 
+ssh-keygen -t rsa -C  20180926@lamolina.edu.pe
 cat ~/.ssh/id_rsa.pub
 ```
 
@@ -75,9 +75,9 @@ git push -u origin main
 ```{bash}
 #| eval: false
 
-git config --global user.name flozano
+git config --global user.name hayselln
 
-git config --global user.email flozano@lamolina.edu.pe
+git config --global user.email 20180926@lamolina.edu.pe
 ```
 
 ## Info: local > server (updates)
@@ -98,4 +98,4 @@ git push
 git pull
 ```
 
-
+lanzamiento.de.pagina.webl.
